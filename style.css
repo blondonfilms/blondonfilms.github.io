@@ -11,4 +11,9 @@ body {
     font-family: sans-serif;
     font-weight: normal;
   }
-  
+  .profile-pic {
+    max-width: 100%; /* This ensures that the image is never wider than its container */
+    height: auto; /* This keeps the image aspect ratio intact */
+    display: block; /* This will place the image in a block format, helpful for centering if needed */
+    margin: 0 auto; /* Optional: if you want to center the image within its container */
+}
