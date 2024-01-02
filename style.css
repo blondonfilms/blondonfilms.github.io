@@ -1,9 +1,14 @@
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    color: #333;
-}
-
-h1 {
-    color: #007bff;
-}
+    max-width: 40em;
+    margin: 0 auto;
+    padding: 5px;
+    font-family: Georgia, serif;
+    font-size: 18px;
+    line-height: 1.6em;
+    color: black;
+  }
+  h1, h2, h3 {
+    font-family: sans-serif;
+    font-weight: normal;
+  }
+  
